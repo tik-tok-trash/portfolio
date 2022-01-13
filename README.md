@@ -1,38 +1,118 @@
-# Advanced Portfolio Starter Code
+# Unit 1: Online Portfolio README
 
-| # classes|Example Project|Project Planning|Rubric|
-|:--:|:--:|:--:|:--:|
-| 3 |[01 EP](https://scriptedcurriculum.github.io/advanced_porfolio_solution/)|[01 PP](https://drive.google.com/open?id=1W1ZubA5UIIdpQ08Bff4FJ0g1wtFD3mIXNRbxBNqoy3A)|[01 PP](https://drive.google.com/open?id=1OcgOVmsKKEHgFG6v5Z0eJaVY23k6qdUKJoy5Y3WXS4w)|
+## Overview
 
-## Overview: 
-In this unit, coders will create an online Portfolio. The Portfolio will provide personal information, links to their prior projects, and contact information. To create this project, coders will use bootstrap to layout their page and gh-pages to host their portfolio.
+In this unit, coders will review HTML and CSS concepts from the Introduction to Web Development course and build a multi-page professional Portfolio.
 
-## Objectives:
-* 1.1 intro to project and project planning
-* 1.2 plan and create a wireframe based on grid system
-* 2.1 create rows and columns in containers
-* 2.2 create navbar using bootstrap
-* 3.1 Read bootstrap documentation to implement a component 
-* 3.2 Create gh-pages branch to host website
+## Goal 1
 
-## Instructions
-1) Fork this repo to your own github account. 
-2) Clone this repo into your own Cloud9 account workspace.
-3) Create your README.md file.
-4) Follow the instuctions in the comments to create your project
-5) Push all changes to GitHub.
-6) Host project on gh-pages.
-7) Add links to working url and project source code to your portfolio with an image and short description of the project.
+### Set up
 
-## Projects Extensions:
-* Add a modal to your site
-* Create another about me page that your site links to
-* Add scrollspy to your project
-* Create a contact form
-*  Update the styling for the portfolio
-* Link your resume to your portfolio
+- [ ] Complete the [Project Planning Document](https://docs.google.com/document/d/19kWZMa_uTM0NtrArYVYxH0ozEx4P4U69hoXMJYVq4vY/edit). Make sure you have thought about how you want your portfolio to look and feel, and that you have finished the wireframe! 
+
+- [x] Go to the repository.
+
+- [ ] Fork this repository to your GitHub account.
+
+- [ ] Create a new project on Glitch that imports your repo from GitHub.
+
+- [ ] If there's time, start the Day 2 HTML and CSS tasks. 
+
+## Goal 2
+
+### HTML
+
+- [ ] Add a header with your name to your Portfolio homepage.
+
+- [ ] Update the title tag of both of your pages.
+
+- [ ] Create your navigation bar that will link all your pages together.
+
+- [ ] Give your HTML elements classes in order to add Flexbox to the CSS.
+
+- [ ] Write your biography on your About Me page.
+
+### CSS
+
+- [ ] Choose 2-4 colors for your theme and add them as font or background colors.
+
+- [ ] Add flexbox to your navigation bar.
+
+- [ ] Add at least 1 Google Font.
+
+### Wrap
+
+- [ ] If you finish early begin Day 3 tasks. 
+- [ ] Submit your work to the session agenda.
+
+## Goal 3
+
+### Set Up
+
+- [ ] Link your homepage and About Me pages together using your nav bar.
+
+- [ ] Add two more HTML files (Projects, Contact) to your Portfolio and link them all together.
+
+- [ ] Upload at least 2 images so they are hosted in your Portfolio.
+
+- [ ] Update the title tags of all your new HTML files.
+
+- [ ] Link your CSS file to all of your HTML files.
+
+### Wrap
+
+- [ ] If you have finished early, move on to the Day 4 tasks. 
+- [ ] Push your changes back to your GitHub repo!
+
+## Day 4 
+
+### Reflection
+- [ ] Go back to the rubric/checklist in your project plan. Check off all the tasks you have completed so far. 
+
+
+### HTML
+
+- [ ] Add a professional headshot of yourself.
+
+In your Projects page, create a display of at least 4 of your old coding projects that includes:
+
+    - [ ] Project name
+    - [ ] Link to project GitHub repo
+    - [ ] Link to project live site
+    - [ ] Short description of project including coding languages used
+    - [ ] Hosted screenshot of project
+
+Add your contact information to your Contact page, including your:
+
+    - [ ] GitHub account
+    - [ ] Email address
+    - [ ] LinkedIn
+    - [ ] Resume
+
+### CSS
+
+- [ ] Format the sizes of all your pictures
+
+### Wrap
+
+- [ ] Push your changes back to your GitHub repo!
+
+
+## Project Extensions (If you finish everything above early)
+
+- [ ] Style your nav bar so the links change color/style when your hover over them or when you click them.
+
+- [ ] Add a unordered or ordered list of your accomplishments or favorite things to your About Me page.
+
+- [ ] Make sure all your external links open up into new tabs.
+
+- [ ] Create a link that pops open the email browser with your email address in the to: field.
+
+- [ ] Arrange your Projects into a creative interactive or animated photo gallery or slideshow.
 
 ## References/Tools
-* [Advanced Reference Table]()
-* [http://getbootstrap.com/](http://getbootstrap.com/)
-* [https://www.w3schools.com/bootstrap/](https://www.w3schools.com/bootstrap/)
+
+* [Fellowship Reference Table](https://docs.google.com/document/d/1qrY2OC-6S04oOXZlYmXja7lmKBmdApR-HXJkhfd67e8/edit)
+* [W3Schools] (https://www.w3schools.com/)
+* [MDN web docs] (https://developer.mozilla.org/en-US/)
+* [Introduction to Bootstrap] (https://getbootstrap.com/docs/4.1/getting-started/introduction/)
